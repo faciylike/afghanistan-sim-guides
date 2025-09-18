@@ -74,3 +74,10 @@ layout: default
 
 　　**最后说两句**：在阿富汗保持联系，一张本地SIM卡带来的不仅仅是网络，更是一种与外界保持连接的踏实感。它就像一把数字钥匙，帮你打开在这里生活的大门。希望这篇指南能帮你做出最适合自己的选择。祝你一切顺利。
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Afghanistan eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/afghanistan-data-plans)
